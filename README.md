@@ -1,4 +1,4 @@
-# FastAPI Secure Auth & SQL Boilerplate
+# FastAPI Secure Auth with SQL 
 
 A robust, lightweight RESTful API boilerplate built with **FastAPI** and **SQLAlchemy**. This project provides a ready-to-use foundation for user management and secure authentication, utilizing modern security standards to protect API endpoints and user data.
 
