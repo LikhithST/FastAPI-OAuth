@@ -1,0 +1,17 @@
+[project]
+name = "fast-api-sql-setup"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bcrypt>=5.0.0",
+    "fastapi>=0.136.1",
+    "jwt>=1.4.0",
+    "passlib>=1.7.4",
+    "pydantic>=2.13.4",
+    "pyjwt>=2.12.1",
+    "python-multipart>=0.0.29",
+    "sqlalchemy>=2.0.49",
+    "uvicorn>=0.47.0",
+]
